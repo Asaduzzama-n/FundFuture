@@ -1,0 +1,44 @@
+.navContainer{
+    height: 80px;
+    background-color: #EEEEEE;
+    }
+    .leftNavigator a{
+        text-decoration: none;
+        color:#F98012;
+        font-size: larger;
+        font-weight: 500;
+    }
+    .leftNavigator a:hover{
+        color: #455A64;
+    }
+    .logo{
+        color: #455A64;
+    }
+    #signInBtn{
+        border-radius: 10px;
+        color: #F98012;
+        font-size: large;
+        font-weight: 500;
+        padding: 5px 20px;
+        border: none;
+        /* margin-right: 50px; */
+    }
+    #signInBtn:hover{
+        
+        color: #455A64;
+    }
+    #fundBtn{
+        color: #455A64;
+        font-size: large;
+        font-weight: 500;
+        border-radius: 10px;
+        padding: 5px 25px;
+        border: 2px solid #455A64;
+        margin-left: 50px;
+        
+    }
+    #fundBtn:hover{
+        
+        color: #F98012;
+        
+    }

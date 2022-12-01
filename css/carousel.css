@@ -1,0 +1,24 @@
+.customStyle img {
+
+    width: 920px;
+    height: 620px;
+
+}
+
+.customStyle h5 {
+    color: black;
+    font-size: x-large;
+    font-weight: bolder;
+
+}
+
+.customStyle p {
+    color: black;
+    font-size: large;
+}
+
+.buttonStyle button {
+    color: black;
+    background-color: black !important;
+
+}
