@@ -1,0 +1,60 @@
+.signUpFormContainer{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    background-color: #455a644f;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.inputStyle{
+    width: 100%;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    background-color: #EDEDED ;
+    margin-top: 30px;
+    padding: 10px;
+    /* background-color: aqua; */
+}
+textarea{
+    border: none;
+    border-radius: 10px;
+    /* margin-top: 10px; */
+    width: 100%;
+    padding: 10px;
+}
+.selectCustomStyle{
+    width: 70%!important;
+    margin: auto;
+    
+}
+select{
+    /* background-color: aqua; */
+    border: none;
+    border-radius: 10px;
+    padding: 0px!important;
+}
+option{
+    padding: 0px!important;
+}
+.fileStyle input{
+    border: none;
+    /* border-radius: 10px; */
+   
+}
+input[type="submit"]{
+    width: 50%;
+    border: none;
+    border-radius: 20px;
+    height: 40px;
+    margin-top: 20px;
+    color: #455A64;
+    font-size: large;
+    font-weight:500 ;
+}
+input[type="submit"]:hover{
+    background-color: #F98012;
+    
+}
